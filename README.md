@@ -4,7 +4,7 @@ This is a collection of scripts that will install Gradle all by itself. As long 
 has already been installed.
 
 1. clone the Git repository into your home directory.
-2. Use the command: "cp -r gradle-wrapper/* '<directory path you would likt to copy the scrpits into>'" 
+2. Use the command: "cp -r gradle-wrapper/* <<directory path you would likt to copy the scrpits into>>" 
    to copy all the scripts from gradle-wrapper directory into the directory you would 
    like to create a Gradle Build and Initialize the Gradle build from.
 
